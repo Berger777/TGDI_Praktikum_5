@@ -1,9 +1,7 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/matrixen.dir/funktionen.c.obj"
-  "CMakeFiles/matrixen.dir/main.c.obj"
-  "libmatrixen.dll.a"
-  "matrixen.exe"
-  "matrixen.exe.manifest"
+  "CMakeFiles/matrixen.dir/funktionen.c.o"
+  "CMakeFiles/matrixen.dir/main.c.o"
+  "matrixen"
   "matrixen.pdb"
 )
 

@@ -1,3 +1,3 @@
-C:/Users/matze/CLionProjects/matrixen/cmake-build-debug/CMakeFiles/matrixen.dir
-C:/Users/matze/CLionProjects/matrixen/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/matze/CLionProjects/matrixen/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/matze/Desktop/Einfuehrung in die Informatik/TGDI_Praktikum_5/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/matze/Desktop/Einfuehrung in die Informatik/TGDI_Praktikum_5/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/matze/Desktop/Einfuehrung in die Informatik/TGDI_Praktikum_5/cmake-build-debug/CMakeFiles/matrixen.dir

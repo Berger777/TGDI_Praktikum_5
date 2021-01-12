@@ -4,8 +4,8 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "C:/Users/matze/CLionProjects/matrixen/funktionen.c" "C:/Users/matze/CLionProjects/matrixen/cmake-build-debug/CMakeFiles/matrixen.dir/funktionen.c.obj"
-  "C:/Users/matze/CLionProjects/matrixen/main.c" "C:/Users/matze/CLionProjects/matrixen/cmake-build-debug/CMakeFiles/matrixen.dir/main.c.obj"
+  "/home/matze/Desktop/Einfuehrung in die Informatik/TGDI_Praktikum_5/funktionen.c" "/home/matze/Desktop/Einfuehrung in die Informatik/TGDI_Praktikum_5/cmake-build-debug/CMakeFiles/matrixen.dir/funktionen.c.o"
+  "/home/matze/Desktop/Einfuehrung in die Informatik/TGDI_Praktikum_5/main.c" "/home/matze/Desktop/Einfuehrung in die Informatik/TGDI_Praktikum_5/cmake-build-debug/CMakeFiles/matrixen.dir/main.c.o"
   )
 set(CMAKE_C_COMPILER_ID "GNU")
 

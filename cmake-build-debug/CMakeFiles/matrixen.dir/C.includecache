@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/matze/CLionProjects/matrixen/main.c
+/home/matze/Desktop/Einfuehrung in die Informatik/TGDI_Praktikum_5/main.c
 stdio.h
 -
 stdlib.h
